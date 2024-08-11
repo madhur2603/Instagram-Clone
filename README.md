@@ -1,6 +1,4 @@
 Instagram-Clone using SwiftUI
 
-<img width="124" alt="login View" src="https://github.com/user-attachments/assets/c1b0cf15-45f6-48da-aea6-ded8118c5b75">
-
-<img width="215" alt="Home View" src="https://github.com/user-attachments/assets/f90cd3c7-2174-4f7d-b169-c79cf5a45363">
-
+<img width="272" alt="Login" src="https://github.com/user-attachments/assets/ece14f84-f5c7-4690-8900-3b755e612566">
+<img width="278" alt="Home" src="https://github.com/user-attachments/assets/54f3a6e1-815c-436d-9d5a-6c7cc781159b">
